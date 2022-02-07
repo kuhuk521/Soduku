@@ -12,6 +12,8 @@ In the places where :zero: is present, a value in the range of :one: to :nine: i
 
 Sample Input:
 
+![image](https://user-images.githubusercontent.com/79625787/152780503-fabc0700-ed00-4bab-8ade-678a5a7d0b1b.png)
+
 
 
 Sample Output:
