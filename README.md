@@ -10,3 +10,11 @@ Backtracking is an algorithmic-technique for solving problems recursively by try
 The user just have to enter values of a 9 X 9 grid. The values have to be in the range of :zero: to :nine: only.
 In the places where :zero: is present, a value in the range of :one: to :nine: is found satisfying the constraints of a soduku.
 
+Sample Input:
+
+
+
+Sample Output:
+
+![image](https://user-images.githubusercontent.com/79625787/152780297-f029712b-b2e1-4ebf-bf44-88986ac30dbf.png)
+
